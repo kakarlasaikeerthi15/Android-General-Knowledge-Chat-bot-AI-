@@ -14,7 +14,7 @@ To enable real-time information retrieval from APIs and databases.
 ✔️ Conversational AI: Uses NLP techniques to process and respond to user queries efficiently.
 ✔️ Multi-Domain Knowledge Base: Covers science, technology, history, sports, entertainment, and more.
 ✔️ 5G Specialization: Provides in-depth knowledge on 5G networks, applications, and advancements.
-✔️ Voice and Text Support: Users can interact using voice commands or text input.
+✔️ Voice and Text Support: Users can interact using text input.
 ✔️ Internet-Based Responses: Fetches real-time answers from online sources (API integration required).
 ✔️ User-Friendly Interface: A simple yet interactive UI for an intuitive user experience.
 ✔️ Cross-Browser Compatibility: Ensures a seamless experience across different Android versions.
